@@ -28,3 +28,7 @@
 .card img {
   max-width: 100%;
 }
+
+.favorites {
+  background-color: olivedrab;
+}
